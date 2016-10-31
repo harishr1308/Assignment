@@ -1,2 +1,2 @@
 # Assignment
-Code to make a nav bar.
+Code to make a sample nav bar.
